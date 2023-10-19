@@ -1,10 +1,13 @@
-console.log('Olá Mundo, introdução a JS.');
-console.log(`Data hora: ${new Date()}`);
+const olaMundo = 'Olá Mundo, intridução a JS.';
+const dataAtual = new Date();
+
+console.log(olaMundo);
+console.log(`Data hora: ${dataAtual}`);
 
 function mensagem() {
-    alert('Chamamos um modal');
+    alert(olaMundo);
 }
 
 function mensagem2() {
-    alert('Mensagem2');
+    alert(olaMundo);
 }
