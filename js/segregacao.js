@@ -24,9 +24,9 @@ const tudoEFalso = !verdadeiro && naoVerdadeiro;
 const algumEVerdadeiro = verdadeiro || naoVerdadeiro;
 const algumEFalso = verdadeiro || naoVerdadeiro
 
-console.log('verdadeiro', verdadeiro);
-console.log('naoVerdadeiro', naoVerdadeiro);
-console.log('tudoEVerdadeiro', tudoEVerdadeiro);
-console.log('tudoEFalso', tudoEFalso);
-console.log('algumEVerdadeiro', algumEVerdadeiro);
-console.log('algumEFalso', algumEFalso);
+//console.log('verdadeiro', verdadeiro);
+//console.log('naoVerdadeiro', naoVerdadeiro);
+//console.log('tudoEVerdadeiro', tudoEVerdadeiro);
+//console.log('tudoEFalso', tudoEFalso);
+//console.log('algumEVerdadeiro', algumEVerdadeiro);
+//console.log('algumEFalso', algumEFalso);
